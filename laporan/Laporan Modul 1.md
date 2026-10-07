@@ -43,7 +43,7 @@ Bagian ini menampilkan dokumentasi eksekusi perintah terminal beserta tangkapan 
 
 7. Pembahasan dan Kendala
 
-Kendala saya yaitu gagal melakukan `commit` karena identitas (`user.name` dan `user.email`) belum terkonfirmasi dan ketika proses `git push` saya sempat gagal karena saya tidak mempunyai koneksi internet.
+Kendala saya yaitu adanya beberapa galat saat menjalankan cmdnya, namun setelah saya mencoba beberapa kali dan berkat bantuan ai dan modul yang diberikan oleh bapak dosen saya berhasil.
 
 8. Kesimpulan
 
@@ -51,7 +51,7 @@ Praktikum ini berhasil menyiapkan lingkungan basis data MariaDB dan repositori G
 
 9. Pernyataan Penggunaan AI
 
-Saya menggunakan AI untuk membantu saya mengerjakan error pada terminal git, dan membantu saya untuk struktur laporannya.
+Saya menggunakan AI untuk membantu saya mengatasi error pada terminal git, dan membantu saya untuk membuat struktur laporannya yang formatnya sesuai dengan buku panduannya.
 
 10. Bukti Git
 
@@ -61,10 +61,7 @@ Saya menggunakan AI untuk membantu saya mengerjakan error pada terminal git, dan
 Checklist
 
 - [x] Berkas skrip SQL `p01_lingkungan_25430081.sql` ada di repositori.
-
 - [x] Berkas `README.md` dan `.gitignore` sudah dibuat.
-
 - [x] Tangkapan layar langkah percobaan lengkap di folder laporan/img/.
-
 - [x] Jawaban Titik Analisis 1-4 lengkap.
 
