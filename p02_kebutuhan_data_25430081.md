@@ -87,16 +87,16 @@ Dokumen sumber utama yang dianalisis adalah **Kartu Rencana Studi (KRS)**:
 
 | Elemen Data | Arti | Contoh Nilai | Aturan Validasi | Penanggung Jawab |
 |---|---|---|---|---|
-| `npm` | Nomor Induk Mahasiswa | 2301010179 | Unik, 10 digit angka | Bagian Akademik |
-| `nama_mahasiswa` | Nama lengkap mahasiswa | Vika Desty Enzelia | Teks, maks 100 karakter | Bagian Akademik |
-| `prodi` | Program studi mahasiswa | Sistem Informasi | Teks, pilihan prodi aktif | Bagian Akademik |
+| `npm` | Nomor Induk Mahasiswa | 25430081 | Unik, 10 digit angka | Bagian Akademik |
+| `nama_mahasiswa` | Nama lengkap mahasiswa | Muhamad Adha Satria Ardiansyah | Teks, maks 100 karakter | Bagian Akademik |
+| `prodi` | Program studi mahasiswa | Ilmu Komputer | Teks, pilihan prodi aktif | Bagian Akademik |
 | `angkatan` | Tahun masuk mahasiswa | 2023 | 4 digit tahun | Bagian Akademik |
 | `status_aktif` | Status akademik mahasiswa | Aktif | Enum: ('Aktif', 'Cuti', 'Lulus') | Bagian Akademik |
-| `email_pribadi` | Email pribadi mahasiswa | vika@gmail.com | Format email valid, terproteksi | Bagian Akademik |
-| `no_hp` | Nomor HP mahasiswa | 081234567890 | Digit angka, terproteksi | Bagian Akademik |
+| `email_pribadi` | Email pribadi mahasiswa | Satria10@gmail.com | Format email valid, terproteksi | Bagian Akademik |
+| `no_hp` | Nomor HP mahasiswa | 089876543215| Digit angka, terproteksi | Bagian Akademik |
 | `nip` | Nomor Induk Pegawai Dosen | 19850101201001 | Unik, 18 digit angka | Bagian Kepegawaian |
-| `nama_dosen` | Nama lengkap & gelar dosen | Dr. Aris, M.Kom. | Teks, maks 100 karakter | Bagian Kepegawaian |
-| `email_dosen` | Email resmi dosen | aris@kampus.ac.id | Format email valid | Bagian Kepegawaian |
+| `nama_dosen` | Nama lengkap & gelar dosen | Dedi Irawan, S.Kom., M.T.I. | Teks, maks 100 karakter | Bagian Kepegawaian |
+| `email_dosen` | Email resmi dosen | mrdedi@kampus.ac.id | Format email valid | Bagian Kepegawaian |
 | `kode_mk` | Kode unik mata kuliah | IF2101 | Unik, format huruf & angka | Bagian Kurikulum |
 | `nama_mk` | Nama mata kuliah | Basis Data | Teks, maks 100 karakter | Bagian Kurikulum |
 | `sks` | Bobot kredit mata kuliah | 3 | Bilangan bulat 1-6 | Bagian Kurikulum |
