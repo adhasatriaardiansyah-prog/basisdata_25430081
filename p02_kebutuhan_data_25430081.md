@@ -145,4 +145,3 @@ TOTAL SKS DIAMBIL : 12 SKS (Maksimal Boleh Diambil: 24 SKS)
 ----------------------------------------------------------------------
 Status Persetujuan : DISETUJUI oleh Dosen PA
 ======================================================================
-```
