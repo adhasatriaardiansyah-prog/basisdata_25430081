@@ -1,0 +1,5 @@
+# Konfigurasi pengecualian Git
+.env
+kredensial*.txt
+*.log
+Thumbs.db
