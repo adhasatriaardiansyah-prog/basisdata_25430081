@@ -5,7 +5,7 @@
 -- Universitas : Universitas Muhammadiyah Metro
 -- Mata Kuliah : Basis Data
 -- Tema Proyek : Akademik
--- Berkas      : p06_data_25430081.md
+-- Berkas      : p06_data_25430081.sql
 -- Parameter P : 8 (10 x P = 80 Baris Transaksi Utama KRS)
 -- =====================================================================
 

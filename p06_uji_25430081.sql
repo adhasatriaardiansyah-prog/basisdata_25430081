@@ -4,7 +4,7 @@
 **NPM** : 25430081  
 **Kelas** : C  
 **Mata Kuliah** : Basis Data  
-**Berkas** : p06_uji_25430081.md  
+**Berkas** : p06_uji_25430081.sql  
 **Basis Data** : `akad_081`  
 
 ---
